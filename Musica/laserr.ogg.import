@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/laserr.ogg-a7d59fad56e60c5a5e99633f90d1cb5c.oggstr"
+
+[deps]
+
+source_file="res://Musica/laserr.ogg"
+dest_files=[ "res://.import/laserr.ogg-a7d59fad56e60c5a5e99633f90d1cb5c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
